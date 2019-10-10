@@ -1,0 +1,16 @@
+{
+  "name": "dicewizardprosuper",
+  "version": "1.0.0",
+  "description": "Random dice generator for Slack.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hayden Frank",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1",
+    "slackbots": "^1.2.0"
+  }
+}
